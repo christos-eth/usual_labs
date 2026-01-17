@@ -1,5 +1,11 @@
 forge-std/=lib/forge-std/src/
+lib/openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
 lib/openzeppelin-contracts/=lib/openzeppelin-contracts/
+src/token/=src/token/
+src/errors.sol=src/errors.sol
+src/utils/=src/utils/
+src/constants.sol=src/constants.sol
+src/interfaces/=src/interfaces/
 ds-test/=lib/forge-std/lib/ds-test/src/
 openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
 openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/

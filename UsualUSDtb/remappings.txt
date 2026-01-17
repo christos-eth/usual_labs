@@ -1,5 +1,8 @@
 forge-std/=lib/forge-std/src/
+lib/openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
 lib/openzeppelin-contracts/=lib/openzeppelin-contracts/
+src/usual/=src/usual/
+src/constants.sol=src/constants.sol
 @openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
 @openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
 @pythnetwork/=node_modules/@pythnetwork/

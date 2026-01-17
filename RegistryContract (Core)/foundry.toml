@@ -7,8 +7,12 @@ chain_id = 1
 auto_detect_solc = false
 solc_version = "0.8.20"
 evm_version = "shanghai"
+via_ir = false
+cbor_metadata = true
+use_literal_content = false
+bytecode_hash = "ipfs"
 optimizer = true
 optimizer_runs = 200
-libraries = []
+libraries = ["scripts/deployment/utils/DeploymentHelpers.sol:DeploymentHelpers:0x758888Dd8Cc9C654519413E3Da099c3FF618CE84"]
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
